@@ -1,5 +1,16 @@
+body {
+  box-sizing: border-box;
+}
+
+
 h1 {
   line-height: 1.3;
   color: red;
   font-size: 64px;
+}
+
+.par {
+  color: green;
+  font-size: 36px;
+  padding: 50px 20px;
 }
